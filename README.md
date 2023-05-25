@@ -8,7 +8,7 @@ Simply click the link and you'll be sent to my website! (soon to be on Heroku as
 
 ## Usage
 
-Deployment Link:
+Deployment Link: https://albo1.github.io/Portfolio_al/ 
 
 ![port screenshot](./src/components/images/portfolio%20screenshot.png)
 
