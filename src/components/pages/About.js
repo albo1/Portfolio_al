@@ -10,7 +10,7 @@ export default function About() {
       <p>
         I am a developer in the Greater Philadelphia Area.<br/>
         <br/>
-        Bow down before me peasants
+        I cannot wait to begin my coding journey!
       </p>
     </div>
   );
