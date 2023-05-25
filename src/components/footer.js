@@ -6,7 +6,7 @@ function Footer() {
       <nav>
         <ul className="footer-links">
           <li>
-            <a href="https://stackoverflow.com">Stack Overflow</a>
+            <a href="https://stackoverflow.com">the gram</a>
           </li>
           <li>
             <a href="https://github.com/albo1">GitHub</a>
