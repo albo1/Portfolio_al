@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/albo1/Portfolio_al/static/css/main.158d4b98.css",
-    "main.js": "/albo1/Portfolio_al/static/js/main.47b1e446.js",
+    "main.css": "/albo1/Portfolio_al/static/css/main.6083b7ba.css",
+    "main.js": "/albo1/Portfolio_al/static/js/main.97b5c7b6.js",
+    "static/media/petstagram.png": "/albo1/Portfolio_al/static/media/petstagram.7b43c6157c30d2c99b95.png",
+    "static/media/refactor.png": "/albo1/Portfolio_al/static/media/refactor.233261e3d0a5d247e882.png",
     "static/media/me2lol.png": "/albo1/Portfolio_al/static/media/me2lol.3ecc1ff774e3f492cb18.png",
+    "static/media/dateplanner.png": "/albo1/Portfolio_al/static/media/dateplanner.d5bfbe467f200773c3dd.png",
+    "static/media/weatherapp.jpeg": "/albo1/Portfolio_al/static/media/weatherapp.5d58f433493da2639dbd.jpeg",
+    "static/media/notetaker.png": "/albo1/Portfolio_al/static/media/notetaker.9f6e7fbaeb36b5a4dddd.png",
+    "static/media/jate.png": "/albo1/Portfolio_al/static/media/jate.410282132b3697cc9f0b.png",
     "index.html": "/albo1/Portfolio_al/index.html",
-    "main.158d4b98.css.map": "/albo1/Portfolio_al/static/css/main.158d4b98.css.map",
-    "main.47b1e446.js.map": "/albo1/Portfolio_al/static/js/main.47b1e446.js.map"
+    "main.6083b7ba.css.map": "/albo1/Portfolio_al/static/css/main.6083b7ba.css.map",
+    "main.97b5c7b6.js.map": "/albo1/Portfolio_al/static/js/main.97b5c7b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.158d4b98.css",
-    "static/js/main.47b1e446.js"
+    "static/css/main.6083b7ba.css",
+    "static/js/main.97b5c7b6.js"
   ]
 }

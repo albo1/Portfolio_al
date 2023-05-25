@@ -22,3 +22,59 @@
     padding: 10px;
     text-align: center;
   }
+  
+  .portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* Add any additional styles for the portfolio container */
+  }
+  
+  
+  .portfolio .project {
+    position: relative;
+    width: 45%;
+    margin-bottom: 1rem;
+    /* Add any additional styles for the project container */
+  }
+  
+  .portfolio .project .project-link {
+    display: block;
+    position: relative;
+    /* Add styles for the project link */
+  }
+  
+  .portfolio .project .project-link .project-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    /* Add styles for the project overlay */
+  }
+  
+
+  
+  .portfolio .project .project-link:hover .project-overlay {
+    opacity: 1;
+  }
+  
+  .portfolio .project .project-image {
+    width: 100%;
+    border: 2px solid #ccc;
+    /* Add any additional styles for the project image */
+  }
+  
+  .portfolio .project a {
+    display: block;
+    margin-top: 0.5rem;
+    /* Add styles for the project links */
+  }
+  
