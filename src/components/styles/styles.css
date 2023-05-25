@@ -78,3 +78,12 @@
     /* Add styles for the project links */
   }
   
+  .nav.nav-tabs {
+    justify-content: flex-end;
+  }
+
+  .footer-links {
+    display: flex;
+    justify-content: space-between;
+    gap: 1px;
+  }

@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer className="footer">
       <nav>
-        <ul>
+        <ul className="footer-links">
           <li>
             <a href="https://stackoverflow.com">Stack Overflow</a>
           </li>
