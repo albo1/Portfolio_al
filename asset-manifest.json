@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio_al/static/css/main.3d1b09c0.css",
+    "main.js": "/Portfolio_al/static/js/main.0e7ea63d.js",
+    "static/media/petstagram.png": "/Portfolio_al/static/media/petstagram.7b43c6157c30d2c99b95.png",
+    "static/media/refactor.png": "/Portfolio_al/static/media/refactor.233261e3d0a5d247e882.png",
+    "static/media/me2lol.png": "/Portfolio_al/static/media/me2lol.3ecc1ff774e3f492cb18.png",
+    "static/media/dateplanner.png": "/Portfolio_al/static/media/dateplanner.d5bfbe467f200773c3dd.png",
+    "static/media/AL_RESUME_2023.pdf": "/Portfolio_al/static/media/AL_RESUME_2023.c81f5bf0a7823ac5ba33.pdf",
+    "static/media/weatherapp.jpeg": "/Portfolio_al/static/media/weatherapp.5d58f433493da2639dbd.jpeg",
+    "static/media/notetaker.png": "/Portfolio_al/static/media/notetaker.9f6e7fbaeb36b5a4dddd.png",
+    "static/media/jate.png": "/Portfolio_al/static/media/jate.410282132b3697cc9f0b.png",
+    "index.html": "/Portfolio_al/index.html",
+    "main.3d1b09c0.css.map": "/Portfolio_al/static/css/main.3d1b09c0.css.map",
+    "main.0e7ea63d.js.map": "/Portfolio_al/static/js/main.0e7ea63d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d1b09c0.css",
+    "static/js/main.0e7ea63d.js"
+  ]
+}
